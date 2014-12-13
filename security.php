@@ -9,6 +9,12 @@
 <a href= "main.php"   >Here is the main page<a>
 
 <br>
+
+<br>
+<a href= "types.php"   >Here is the types page<a>
+
+<br>
+
 <div main>
 
 

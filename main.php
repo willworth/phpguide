@@ -15,6 +15,9 @@ Here's the latest news.
 <br>
 <a href= "security.php"   >Here is the security page<a>
 
+
+<a href= "types.php"   >Here is the types page<a>
+
 <br>
 
 
