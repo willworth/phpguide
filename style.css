@@ -3,6 +3,13 @@ text-align:justify;
 font-family:Helvetica;
 }
 
+h1{
+            display:inline;
+            background-color:green;
+            color:#fff;
+        }
+
+
 strong {color: red;}
 
-div.main { background-color:#745D75; }
+div.title { background-color:#745D75; }

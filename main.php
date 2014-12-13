@@ -1,11 +1,13 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
-<div main>
+<div title>
 
 
 
 <h1>This is play.php - <br>A play page for the code from learning PHP, MySQL, JavaScript, CSS, and HTML5. </h1>
+</div>
+
 <?php
  echo " Today is " . date("l") . ". ";
 ?>
@@ -159,7 +161,7 @@ TRUE, whereas the command to the right is executed if $b is FALSE.
 
 <br><br><br>
 
-</div>
+
 
 
 <?php
