@@ -1,4 +1,15 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
 <P>
+
+
+<br>
+<a href= "main.php"   >Here is the main page<a>
+
+<br>
+
 
 you should always sanitize superglobals before using them. One way to do
 this is via the PHP htmlentities function. It converts all characters into HTML entities.
