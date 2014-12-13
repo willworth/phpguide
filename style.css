@@ -1,6 +1,8 @@
-p {
+p {background-color:#745D75;
 text-align:justify;
 font-family:Helvetica;
 }
 
 strong {color: red;}
+
+div.main { background-color:#745D75; }

@@ -9,6 +9,7 @@
 <a href= "main.php"   >Here is the main page<a>
 
 <br>
+<div main>
 
 
 you should always sanitize superglobals before using them. One way to do
@@ -24,3 +25,6 @@ $came_from = htmlentities($_SERVER['HTTP_REFERER']);
 
 <strong> Javascript should not be relied upon for web security.  This should always be done on the server side.</strong>
 <p>
+
+
+</div>
